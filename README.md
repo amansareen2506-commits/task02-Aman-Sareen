@@ -17,3 +17,11 @@ as part of the DecodeLabs AI Industrial Training (Batch 2026).
 | F1 Score | 1.0 |
 
 ## How to Run
+```
+py classifier.py
+```
+
+## Dependencies
+```
+py -m pip install scikit-learn numpy
+```
